@@ -1,0 +1,21 @@
+{
+  "name": "com.sperlich.scurves",
+  "version": "0.1.0",
+  "displayName": "Easeing Curves",
+  "description": "",
+  "unity": "6.0",
+  "author": {
+    "name": "Lion Sperlich",
+    "url": "https://github.com/MrPifo"
+  },
+  "keywords": [
+    "Sperlich",
+    "Easing",
+    "Curves"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrPifo/com.sperlich.scurves.git"
+  }
+}
